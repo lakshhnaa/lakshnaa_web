@@ -1,0 +1,6 @@
+{
+  "name": "lakshhnaa — personal digital archive",
+  "description": "Personal digital archive and identity of Lakshnaa B J — electronics × systems × experiments at VIT Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
